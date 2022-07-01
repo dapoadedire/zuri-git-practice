@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-<div align="center" id="top">
- <img src="https://drive.google.com/uc?export=view&id=1owyFCdZGsDvjB7N376VDpTN_nHyhIJi8" alt="zuri" width="200"> <br>
-=======
 # Zuri Git Practice
->>>>>>> 379cd5ea7d849aede8afba65e86b262a90ef7cf4
 
-
-  &#xa0;
 
 </div>
 
