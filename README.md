@@ -1,4 +1,4 @@
-# zuri-git-practice
+# Zuri Git Practice
 
 * <h1>names of contributors</h1>
 <ul>
